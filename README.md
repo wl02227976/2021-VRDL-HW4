@@ -17,7 +17,7 @@ Run SRResNet.ipynb on colab.
 
 
 ## Requirements
-All requirements is satisfied on Colab.
+All requirements are satisfied on Colab.
 
 ## Pretrained_Model
 Download the [model](https://drive.google.com/file/d/1fkPmy5dTqZ1wR0ukahXBirZIwNJeAh-E/view?usp=sharing)
