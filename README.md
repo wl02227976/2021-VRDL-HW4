@@ -7,12 +7,13 @@ This repository is the official implementation of [2021 VRDL HW4](https://codala
 -Google Colab
 
 ## Reproducing Submission
-Run Inference.ipynb on colab
+Run Inference.ipynb on colab.
+
 The result will be in "2021-VRDL-HW4/output/".
 
 
 ## Train+Inference
-Run SRResNet.ipynb on colab
+Run SRResNet.ipynb on colab.
 
 
 ## Requirements
