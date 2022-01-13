@@ -3,7 +3,7 @@ import os
 from sklearn.model_selection import train_test_split
 from PIL import Image
 
-train_dir = './data/training_hr_images'
+train_dir = './data/training_hr_images/training_hr_images'
 
 out_train_dir = './data/train'
 out_val_dir = './data/val'
