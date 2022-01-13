@@ -53,6 +53,7 @@ The result will be in "2021-VRDL-HW4/output/".
 
 ## Reference
 https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Super-Resolution
+
 https://github.com/junnjun/SuperResolution_SRResNet
 
 https://github.com/Saafke/EDSR_Tensorflow
