@@ -18,34 +18,31 @@ This repository is the official implementation of [2021 VRDL HW4](https://codala
 All requirements is satisfied on Colab.
 
 ## Pretrained_Model
-Download the [model](https://drive.google.com/file/d/15GLAv1nd9LT2lZbQHNDoA4Yoi_rlu69Q/view?usp=sharing)
+Download the [model](https://drive.google.com/file/d/1fkPmy5dTqZ1wR0ukahXBirZIwNJeAh-E/view?usp=sharing)
 
-and put it in "2021-VRDL-HW3/model/"
+and put it in "2021-VRDL-HW4/models/"
 
 
 
 ## Data
-Download the dataset from [here](https://drive.google.com/file/d/1WCOhLfEreUA-2H_J7NmgvN1hefuvEREs/view?usp=sharing)
+Download the dataset from [here](https://drive.google.com/file/d/1ewI1tdXqpkxRwh06tLYwaGpdBEY5PBzw/view?usp=sharing)
 
-and unzip it in "2021-VRDL-HW3/".
-
-There will be three folder in it, "train", "test", "stage1_test".
+and unzip it in "2021-VRDL-HW4/data/".
 
 
 ## Train
 
 ```Train
-python nuclei_train.py --dir_log logs
+python train.py
 ```
-
 
 
 ## Inference
 
 ```Inference
-python samples/nucleus/nucleus.py detect --dataset=dataset --subset=stage1_test --weights=model/mask_rcnn_nuclei_train_0026.h5
+python inference.py
 ```
-answer.json will be in "2021 VRDL HW3/"
+The result will be in "2021-VRDL-HW4/output/".
 
 
 ## Reference
