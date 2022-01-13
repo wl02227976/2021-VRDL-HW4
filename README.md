@@ -19,8 +19,8 @@ Run SRResNet.ipynb on colab.
 ## Requirements
 All requirements are satisfied on Colab.
 
-## Pretrained_Model
-Download the [model](https://drive.google.com/file/d/1fkPmy5dTqZ1wR0ukahXBirZIwNJeAh-E/view?usp=sharing)
+## Model
+Download the [model](https://drive.google.com/file/d/15QWYP5oO_b8mBSS6mas9bS6FqojT_xnL/view?usp=sharing)
 
 and put it in "2021-VRDL-HW4/models/"
 
