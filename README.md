@@ -15,20 +15,7 @@ This repository is the official implementation of [2021 VRDL HW4](https://codala
 
 
 ## Requirements
-
-To install requirements:
-
-```setup
-#run the Anaconda Prompt
-conda create -n hw3 python=3.7 -y
-conda activate hw3
-
-git clone https://github.com/wl02227976/2021-VRDL-HW3.git
-cd 2021-VRDL-HW3
-
-pip install -r requirements.txt
-python setup.py install
-```
+All requirements is satisfied on Colab.
 
 ## Pretrained_Model
 Download the [model](https://drive.google.com/file/d/15GLAv1nd9LT2lZbQHNDoA4Yoi_rlu69Q/view?usp=sharing)
