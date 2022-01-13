@@ -3,14 +3,15 @@
 This repository is the official implementation of [2021 VRDL HW4](https://codalab.lisn.upsaclay.fr/competitions/622?secret_key=4e06d660-cd84-429c-971b-79d15f78d400#learn_the_details). 
 
 
-## Reproducing Submission
-1. [Requirements](#Requirements)
-2. [Pretrained_Model](#Pretrained_Model)
-3. [Data](#Data)
-4. [Inference](#Inference)
-
 ### Environment
 -Google Colab
+
+
+## Train+Inference
+Run SRResNet.ipynb on colab
+
+## Reproducing Submission
+Run Inference.ipynb on colab
 
 
 
