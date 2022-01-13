@@ -31,7 +31,7 @@ and unzip it in "2021-VRDL-HW4/data/".
 
 Run
 ```Data
-data_preprocess.py
+python data_preprocess.py
 ```
 
 ## Train
