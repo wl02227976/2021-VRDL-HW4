@@ -9,7 +9,7 @@ This repository is the official implementation of [2021 VRDL HW4](https://codala
 ## Reproducing Submission
 Run Inference.ipynb on colab.
 
-The result will be in "2021-VRDL-HW4/output/".
+Images will be in "2021-VRDL-HW4/output/".
 
 
 ## Train+Inference
