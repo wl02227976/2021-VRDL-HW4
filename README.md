@@ -29,6 +29,10 @@ Download the dataset from [here](https://drive.google.com/file/d/1ewI1tdXqpkxRwh
 
 and unzip it in "2021-VRDL-HW4/data/".
 
+Run
+```Data
+data_preprocess.py
+```
 
 ## Train
 
