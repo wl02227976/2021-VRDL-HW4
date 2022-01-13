@@ -83,7 +83,7 @@ def main():
                                              pin_memory=True)
     # Total number of epochs to train for
     ##epochs = int(iterations // len(train_loader) + 1)
-    epochs = 3500
+    epochs = 2500
 
     max_psnr = 0
     # Epochs
